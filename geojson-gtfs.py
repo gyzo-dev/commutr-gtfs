@@ -2,7 +2,7 @@ import json
 import csv
 
 # Specify the path to your GeoJSON file
-geojson_file_path = 'geojson/TPUJ_4A_BP05.geojson'  # Assuming the file is in the same folder
+geojson_file_path = 'geojson/TPUJ_4A_BP05_OUT_NIGHT.geojson'  # Assuming the file is in the same folder
 
 # Load the GeoJSON data
 with open(geojson_file_path, 'r') as geojson_file:

@@ -1,3 +1,3 @@
 ﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-TPUJ_4A_BP05,LTFRB,BP05,Batangas City Proper - Balagtas,,3,,FFDD00,000000,,2,2
-TPUJ_4A_BP02,LTFRB,BP02,Batangas City Proper - Sta Clara/Pier,,3,,FFDD00,000000,,2,2
+TPUJ_4A_BP05,LTFRB,BP05,Batangas City Proper - Balagtas,,3,,FFDD00,000000,,0,0
+TPUJ_4A_BW02,LTFRB,BW02,Batangas City Proper - Bauan,,3,,024DFA,FFFFFF,,0,0
